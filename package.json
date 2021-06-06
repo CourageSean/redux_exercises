@@ -1,7 +1,6 @@
 {
   "name": "redux_exercises",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
@@ -12,5 +11,15 @@
   "dependencies": {
     "nodemon": "^2.0.7",
     "redux": "^4.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CourageSean/redux_exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CourageSean/redux_exercises/issues"
+  },
+  "homepage": "https://github.com/CourageSean/redux_exercises#readme",
+  "description": ""
 }
